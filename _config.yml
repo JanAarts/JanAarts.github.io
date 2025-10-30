@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jan.png"
   name             : "Yannick Jurriaan Maria Aarts"
   pronouns         : # example: "she/her"  
   bio              : "I am experienced in Data Science and interested in applying these techniques to biological problems as well as developing new tools to improve current techniques. Currently I am working as a PhD candidate where I develop time-series classification methods to select dairy cows suited for an extended lactation."
