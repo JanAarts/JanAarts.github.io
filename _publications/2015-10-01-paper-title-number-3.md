@@ -1,5 +1,5 @@
 ---
-title: "SwiftMHC: A High-Speed Attention Network for MHC-Bound Peptide Identification and 3D Modeling"
+title: "The EnergyTag: A Wearable Software Sensor for Online Monitoring of Animal’s Dynamic Energy Expenditure"
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1101/2025.01.20.633893
