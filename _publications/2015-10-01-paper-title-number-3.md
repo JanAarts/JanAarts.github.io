@@ -1,5 +1,5 @@
 ---
-title: "The EnergyTag: A Wearable Software Sensor for Online Monitoring of Animals Dynamic Energy Expenditure"
+title: "The EnergyTag A Wearable Software Sensor for Online Monitoring of Animals Dynamic Energy Expenditure"
 collection: publications
 category: conferences
 permalink: 
