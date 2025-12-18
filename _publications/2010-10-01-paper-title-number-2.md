@@ -9,7 +9,7 @@ To address scalability, we introduce SwiftMHC, an attention network for identify
 
 SwiftMHC showcases the advantages of task-specific AI trained on physics-derived synthetic data for speed and precision. Optimized for HLA-A*0201 9-mers, it can be adapted to other MHC alleles. Its speed and accuracy may enable the community to identify peptides distinct from self-peptides at T-cell exposed surfaces, ensuring safer therapies, expanding immunotherapy targets, and accelerating development.
 '
-date: 2025
+date: 2025-01-01
 venue: Cell Reports Methods
 citation: Coos Baakman, Giulia Crocioni, Daniel T. Rademaker, David Frühbuß, Yannick J. M. Aarts, Li C. Xue
 ---
