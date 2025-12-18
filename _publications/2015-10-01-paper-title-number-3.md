@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: 'https://research.wur.nl/en/publications/the-energytag-a-wearable-software-sensor-for-online-monitoring-of/'
 excerpt: 'kjkjk'
-date: 2025
-venue: Cell Reports Methods
+date: 2024
+venue: European Conference on Precision Livestock Farming 2024
 citation: Yannick Aarts, Kristina Vodorezova, Yajing Tang, Marcel Heetkamp, Bjorge Laurenssen, Ali Youssef
 ---
 
