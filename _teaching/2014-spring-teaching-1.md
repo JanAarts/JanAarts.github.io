@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Understanding and Using Sensor Data in Animal Sciences"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master Course"
+permalink: /teaching/YAS34306_2025_2
+venue: "Wageningen University & Research, Animal Sciences"
+date: 2025-10-01
+location: "Wageningen, Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Assisted in the computer practicals for this course, which focuses on processing, and interpretation of sensor data in animal sciences. 
