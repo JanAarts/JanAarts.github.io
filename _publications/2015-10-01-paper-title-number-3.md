@@ -1,17 +1,17 @@
 ---
-title: "The EnergyTag: A Wearable Software Sensor for Online Monitoring of Animal’s Dynamic Energy Expenditure"
+title: "SwiftMHC: A High-Speed Attention Network for MHC-Bound Peptide Identification and 3D Modeling"
 collection: publications
-category: conferences
-permalink: https://research.wur.nl/en/publications/the-energytag-a-wearable-software-sensor-for-online-monitoring-of/
-excerpt: 'In animal ecosystems, energy expenditure plays a pivotal role in animals’ survival success, reproduction, and population dynamics. Throughout an animal's daily life, the total energy expenditure undergoes dynamic changes influenced by numerous internal and external factors. Hence, monitoring such dynamic changes in animal’s energy expenditure can serve as early indicators for underlaying health issues and welfare concerns. 
-Indirect calorimetry in a climate respiration chamber (CRC) is the gold standard for measuring energy expenditure, yet its application is constrained. Placing animals in the CRC may induce stress, impacting metabolic rates, and the artificial chamber environment raises concerns about ecological validity. Addressing these limitations is essential for advancing our understanding of diverse metabolic processes. 
-This article introduces an innovative non-invasive software-sensor for online monitoring of dynamic energy expenditure, the difference between total energy expenditure and resting energy expenditure. The proposed system features a wearable integrated sensor, enabling the online measurement of activity, heat flux, and skin temperature. Complementing this hardware, the system incorporates an adaptive subject-specific model to estimate the time-varying energy expenditure, which is used to infer dynamic energy expenditure. 
-In this particular study, the software-sensor is developed and validated using four pigs spanning different ages. The system is benchmarked against indirect-calorimetric measurements within a CRC. The experimental protocol encompasses varied temperature conditions, namely higher, within, and lower than the thermal neutral zone, at low and high activity levels. While the experiments are ongoing, the preliminary findings show great promise, and the validation results will be presented in the forthcoming paper.
+category: manuscripts
+permalink: https://doi.org/10.1101/2025.01.20.633893
+excerpt: 'Cancer immunotherapies show promise in eliminating tumors, but identifying tumor peptides that bind patient MHC proteins to trigger immune responses remains challenging. The vast peptide-MHC diversity makes experimental identification costly, emphasizing the need for computational predictions.
 
+To address scalability, we introduce SwiftMHC, an attention network for identifying MHC-bound peptides and generating all-atom 3D structures simultaneously. SwiftMHC processes cases in 0.01 to 2.2 seconds on a single A100 GPU, overcoming the speed bottleneck of structure-based approaches. It rivals or surpasses state-of-the-art tools, including an AlphaFold-based approach, in binding affinity prediction and 3D modeling.
+
+SwiftMHC showcases the advantages of task-specific AI trained on physics-derived synthetic data for speed and precision. Optimized for HLA-A*0201 9-mers, it can be adapted to other MHC alleles. Its speed and accuracy may enable the community to identify peptides distinct from self-peptides at T-cell exposed surfaces, ensuring safer therapies, expanding immunotherapy targets, and accelerating development.
 '
-date: 2024
-venue: European Conference on Precision Livestock Farming 2024
-citation: Yannick Aarts, Kristina Vodorezova, Yajing Tang, Marcel Heetkamp, Bjorge Laurenssen, Ali Youssef
+date: 2025
+venue: Cell Reports Methods
+citation: Coos Baakman, Giulia Crocioni, Daniel T. Rademaker, David Frühbuß, Yannick J. M. Aarts, Li C. Xue
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
