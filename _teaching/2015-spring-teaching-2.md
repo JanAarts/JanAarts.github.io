@@ -1,5 +1,5 @@
 ---
-title: "Internship Supervision"
+title: "Internship"
 collection: teaching
 type: "Bachelor Course"
 permalink: /teaching/YAS11306_2024_6
