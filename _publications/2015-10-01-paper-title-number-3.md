@@ -4,7 +4,7 @@ collection: publications
 paperurl: https://research.wur.nl/en/publications/the-energytag-a-wearable-software-sensor-for-online-monitoring-of/
 date: January 2024
 venue: European Conference on Precision Livestock Farming 2024
-type: conference
+type: conferences
 citation: "Yannick Aarts, Kristina Vodorezova, Yajing Tang, Marcel Heetkamp, Bjorge Laurenssen, Ali Youssef"
 excerpt: >
   In animal ecosystems, energy expenditure plays a pivotal role in animals’ survival success, reproduction, and population dynamics. Throughout an animal's daily life, the total energy expenditure undergoes dynamic changes influenced by numerous internal and external factors. Hence, monitoring such dynamic changes in animal’s energy expenditure can serve as early indicators for underlaying health issues and welfare concerns.
