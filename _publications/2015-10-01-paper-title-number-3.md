@@ -1,7 +1,7 @@
 ---
 title: "The EnergyTag: A Wearable Software Sensor for Online Monitoring of Animal’s Dynamic Energy Expenditure"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: https://doi.org/10.1101/2025.01.20.633893
 excerpt: 'Cancer immunotherapies show promise in eliminating tumors, but identifying tumor peptides that bind patient MHC proteins to trigger immune responses remains challenging. The vast peptide-MHC diversity makes experimental identification costly, emphasizing the need for computational predictions.
 
