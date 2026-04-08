@@ -7,9 +7,7 @@ excerpt: 'Dairy cows in contact with their calves can spend time engaging in mat
 Keywords: Dam-calf contact; Feeding behavior; Dairy cattle; Animal welfare; Weaning and separation'
 date: March 2026
 venue: 'Applied Animal Behaviour Science'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168159125004010'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Coenraad L. van Zyl, Eddie A.M. Bokkers, Yannick J.M. Aarts, Jacinta D. Bus, Bas Kemp, Hanna Eriksson, Ariëtte T.M. van Knegsel,
 Roughage feeding patterns of dairy cows in a cow-calf contact system with automatic milking,
 Applied Animal Behaviour Science,
