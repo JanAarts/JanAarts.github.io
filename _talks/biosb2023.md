@@ -2,7 +2,7 @@
 title: "Efficient Computational Docking of TCR:pMHC Complexes Using Restricted Rotation Matrices and Distance Restraints"
 collection: talks
 type: "Conference presentation"
-permalink: /talks/nsbm2025/
+permalink: /talks/biosb2023/
 venue: "BioSB 2023"
 date: 2023-05-09
 location: "Egmond aan Zee, the Netherlands"
