@@ -1,5 +1,5 @@
 ---
-title: "EfficientComputationalDockingof TCR:pMHC ComplexesUsing Restricted Rotation Matrices and Distance Restraints"
+title: "Efficient Computational Docking of TCR:pMHC Complexes Using Restricted Rotation Matrices and Distance Restraints"
 collection: talks
 type: "Conference presentation"
 permalink: /talks/nsbm2025/
