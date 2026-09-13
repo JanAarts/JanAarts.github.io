@@ -1,6 +1,7 @@
 name: Scrape Talk Locations
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'talks/**'
@@ -10,12 +11,19 @@ on:
 permissions:
   contents: write
 
+# Ensures that two map-update runs do not push at the same time.
+concurrency:
+  group: scrape-talk-locations-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -34,7 +42,15 @@ jobs:
     - name: Commit map updates
       run: |
         git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
         git add talkmap talkmap_out.ipynb
-        git commit -m "Update talk map" || echo "No changes to commit"
-        git push
+
+        if git diff --cached --quiet; then
+          echo "No map changes to commit."
+          exit 0
+        fi
+
+        git commit -m "Update talk map"
+        git pull --rebase origin master
+        git push origin HEAD:master
